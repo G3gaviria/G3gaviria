@@ -11,6 +11,11 @@
   
 </p>
 
+### Lenguajes de Programación
+
+- ![Angular Badge](https://img.shields.io/badge/-Angular-ff5733?style=flat&logo=angular&logoColor=white)
+- ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)
+- ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=white)
 
 <!--- snake -->
 <div align="center">
